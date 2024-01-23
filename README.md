@@ -1,16 +1,28 @@
-### Hi there 👋
+# Привет, меня зовут Дмитрий!
 
-<!--
-**polenov-dv/polenov-dv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :man_technologist: Обо мне:
+Я начинающий веб разработчик. Решил сменить сферу деятельности в сторону веб разработки, ранее занимался программированием микроконтроллеров и разработкой сервисных программ для ОС Linux на C++. Cтремлюсь к новым вызовам и хочу непрерывно расширять свои знания и навыки.
 
-Here are some ideas to get you started:
+___
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤝 Социальные сети:
+
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/polenov_dv)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/id272160444)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=whatsapp&logoColor=green)](https://wa.me/+79595243430)
+[![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=#ea4335)](mailto:polenovdimaprok@gmail.com)
+
+___
+
+### 💻 Технологии:
+<div>
+  <img src="https://img.shields.io/badge/html5-090909?style=for-the-badge&logo=html5&logoColor=#ea4335" />
+  <img src="https://img.shields.io/badge/css3-090909?style=for-the-badge&logo=css3&logoColor=green" />
+  <img src="https://img.shields.io/badge/javascript-090909?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" />
+  <img src="https://img.shields.io/badge/react-090909?style=for-the-badge&logo=react&logoColor=#61DAFB" />
+  <img src="https://img.shields.io/badge/redux toolkit-090909?style=for-the-badge&logo=redux&logoColor=plum" />
+  <img src="https://img.shields.io/badge/typescript-090909?style=for-the-badge&logo=typescript&logoColor=#3178C6" />
+  <img src="https://img.shields.io/badge/git-090909?style=for-the-badge&logo=git&logoColor=#F05032" />
+  <img src="https://img.shields.io/badge/webpack-090909?style=for-the-badge&logo=webpack&logoColor=#8DD6F9" />
+  <img src="https://img.shields.io/badge/jest-090909?style=for-the-badge&logo=jest&logoColor=crimson" />
+</div>
